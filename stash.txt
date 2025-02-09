@@ -1,3 +1,4 @@
 text in stash file
 
 i added more text
+more
